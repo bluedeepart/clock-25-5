@@ -17,7 +17,7 @@ You can view a similar example here: [Live Demo](https://bluedeepart.github.io/c
 
 ## Screenshot
 
-![25 + 5 Clock Screenshot](./assets/screenshot.png)
+![25 + 5 Clock Screenshot](./src/assets/screenshot.png)
 
 ## Features
 
